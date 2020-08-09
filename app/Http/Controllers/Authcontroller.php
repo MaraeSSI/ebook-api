@@ -11,7 +11,7 @@ class AuthController extends Controller {
             "nis" => 3103118013,
             "name" => "Almas Rais Syaebani",
             "gender" => "Laki-laki",
-            "phone" => 089665871807,
+            "phone" => 6289665871807,
             "class" => "XII RPL 1"
         ];
     }
